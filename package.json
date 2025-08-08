@@ -17,5 +17,18 @@
   },
   "devDependencies": {
     "serve": "^14.2.0"
-  }
+  },
+  "description": "this is a change",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GeorgeDimas123/International-Countries-Website.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GeorgeDimas123/International-Countries-Website/issues"
+  },
+  "homepage": "https://github.com/GeorgeDimas123/International-Countries-Website#readme"
 }
