@@ -1,0 +1,4 @@
+body { font-family: system-ui, -apple-system, "Segoe UI", Roboto, sans-serif; margin: 32px; color: #111; }
+header h1 { margin-bottom: 12px; }
+pre { background:#f4f4f4; padding:12px; border-radius:6px; }
+button { padding:8px 12px; }
